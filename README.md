@@ -1,2 +1,0 @@
-# AppliedCryptography
-Applied Cryptography Labs
